@@ -26,7 +26,7 @@ bullets and numbered lists,
 1.  and more numbered items
 
 You can add images
-[GitHub Logo](https://github.com/Protiviti-JSargent/hello-world/blob/readme-edits/GitHub.png)
+![GitHub Logo](https://github.com/Protiviti-JSargent/hello-world/blob/readme-edits/GitHub.png)
 
 but they are **case-sensititive**
-[check your spelling](github.png)
+![check your spelling](GitHub.png)
