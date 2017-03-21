@@ -25,8 +25,11 @@ bullets and numbered lists,
   1.  you cannot create sub-items for numbered lists
 1.  and more numbered items
 
-You can add images
+You can add images using static (full address path)
 ![GitHub Logo](https://github.com/Protiviti-JSargent/hello-world/blob/readme-edits/GitHub.png)
 
+or dynamic addressing (relative to the playbook location)
+![check your spelling](github404.jpg)
+
 but they are **case-sensititive**
-![check your spelling](GitHub.png)
+![check your spelling](github.png)
