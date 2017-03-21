@@ -13,7 +13,7 @@ You can create headings,
 ### This is a level 3 heading
 #### This is a level 4 heading
 
-bullets and numbered lists,
+## bullets and numbered lists,
 
 * This is a bulletted list
   * This is a sub-bullet
@@ -25,11 +25,26 @@ bullets and numbered lists,
   1.  you cannot create sub-items for numbered lists
 1.  and more numbered items
 
-You can add images using static (full address path)
+## you can create hyperlinks
+
+hyperlinks to static locations
+
+[The APL](https://www.idmanagement.gov/IDM/IDMFicamProductSearchPage)
+
+and within the document
+[text formatting](#text-styling)
+
+## You can add images using static (full address path)
 ![GitHub Logo](https://github.com/Protiviti-JSargent/hello-world/blob/readme-edits/GitHub.png)
 
-or dynamic addressing (relative to the playbook location)
+## or dynamic addressing (relative to the playbook location)
 ![check your spelling](github404.jpg)
 
 but they are **case-sensititive**
 ![check your spelling](github.png)
+
+## Text styling
+
+You can make text **bold**, *Italicised*, or ***both***
+
+
