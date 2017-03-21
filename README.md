@@ -47,4 +47,14 @@ but they are **case-sensititive**
 
 You can make text **bold**, *Italicised*, or ***both***
 
+## You can also create tables
+
+|things you can do| things you cannot do|
+--|--
+create simple, easy to read playbooks | make 17 layered, hilighted sections in comic sans
+
+#Handy Guide
+
+[Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
 
