@@ -1,4 +1,4 @@
-# hello-world
+# Hello-Horld
 playbook walkthrough demonstration
 
 
@@ -22,7 +22,7 @@ You can create headings,
 
 1. this is a numbered list
 1. another list item
-  1.  you cannot create sub-items for numbered lists
+  1.  you cannot create sub-items for numbered lists <!-- this is unclear from the published version.  may want to try a different example -->
 1.  and more numbered items
 
 ## you can create hyperlinks
